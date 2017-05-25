@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>KEY_L_PFD</key>
+	<string>0x01</string>
+	<key>KEY_R_PFD</key>
+	<string>0x02</string>
+	<key>KEY_PFD_COMPOSITE</key>
+	<string>0x13</string>
+	<key>KEY_MAP</key>
+	<string>0x10</string>
+	<key>KEY_FMS</key>
+	<string>0x14</string>
+	<key>KEY_CHKLST</key>
+	<string>0x11</string>
+	<key>KEY_SYS</key>
+	<string>0x12</string>
+	<key>KEY_AUDIO</key>
+	<string>0x22</string>
+	<key>KEY_DIRECT</key>
+	<string>0x21</string>
+	<key>KEY_VTF</key>
+	<string>0x04</string>
+	<key>KEY_PREV</key>
+	<string>0x16</string>
+	<key>KEY_NEXT</key>
+	<string>0x17</string>
+</dict>
+</plist>

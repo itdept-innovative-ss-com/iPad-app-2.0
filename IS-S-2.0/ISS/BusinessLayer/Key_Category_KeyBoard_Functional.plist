@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>KEY_POSNEG</key>
+	<string>0x5C</string>
+	<key>KEY_CLR</key>
+	<string>0x7F</string>
+	<key>KEY_ENTER</key>
+	<string>0x15</string>
+	<key>KEY_SLASH</key>
+	<string>0x2F</string>
+	<key>KEY_PERIOD</key>
+	<string>0x2E</string>
+	<key>KEY_SP</key>
+	<string>0x20</string>
+	<key>KEY_EMPTY</key>
+	<string>0x00</string>
+	<key>KEY_CCD</key>
+	<string>0x5F</string>
+	<key>KEY_PERF</key>
+	<string>0x05</string>
+	<key>KEY_MINS</key>
+	<string>0x06</string>
+	<key>KEY_BLANK4</key>
+	<string>0x07</string>
+	<key>KEY_MB</key>
+	<string>0x09</string>
+	<key>KEY_WNB</key>
+	<string>0x26</string>
+	<key>KEY_PILISO</key>
+	<string>0x27</string>
+	<key>KEY_COMSEL</key>
+	<string>0x29</string>
+	<key>KEY_SWAP</key>
+	<string>0x2A</string>
+	<key>KEY_MONITOR</key>
+	<string>0x2B</string>
+	<key>KEY_COM1</key>
+	<string>0x2C</string>
+	<key>KEY_COM2</key>
+	<string>0x2D</string>
+	<key>KEY_PA</key>
+	<string>0x3C</string>
+	<key>KEY_SPKR</key>
+	<string>0x40</string>
+	<key>KEY_VOL_UP</key>
+	<string>0x62</string>
+	<key>KEY_VOL_DN</key>
+	<string>0x62</string>
+</dict>
+</plist>

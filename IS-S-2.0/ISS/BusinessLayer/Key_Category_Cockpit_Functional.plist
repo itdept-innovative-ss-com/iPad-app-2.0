@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   Key_Category_Cockpit_Functional.plist
+   ISS
+
+   Created by Digvijay Joshi on 5/26/16.
+   Copyright (c) 2016 Digvijay Joshi. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+        <key>KEY_XPDR1</key>
+        <string>0x0C</string>
+        <key>KEY_XPDR2</key>
+        <string>0x08</string>
+        <key>KEY_IDENT</key>
+        <string>0x0A</string>
+        <key>KEY_XPDRSQ</key>
+        <string>0x0B</string>
+        <key>KEY_SBY</key>
+        <string>0x0D</string>
+        <key>KEY_ALT</key>
+        <string>0x0E</string>
+        <key>KEY_ON</key>
+        <string>0x18</string>
+        <key>KEY_VFR</key>
+        <string>0x0F</string>
+    </dict>
+</plist>

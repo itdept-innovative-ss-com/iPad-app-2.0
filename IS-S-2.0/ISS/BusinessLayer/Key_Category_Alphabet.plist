@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>KEY_Aa</key>
+    <string>0x41</string>
+    <key>KEY_Bb</key>
+    <string>0x42</string>
+    <key>KEY_Cc</key>
+    <string>0x43</string>
+    <key>KEY_Dd</key>
+    <string>0x44</string>
+    <key>KEY_Ee</key>
+    <string>0x45</string>
+    <key>KEY_Ff</key>
+    <string>0x46</string>
+    <key>KEY_Gg</key>
+    <string>0x47</string>
+    <key>KEY_Hh</key>
+    <string>0x48</string>
+    <key>KEY_Ii</key>
+    <string>0x49</string>
+    <key>KEY_Jj</key>
+    <string>0x4A</string>
+    <key>KEY_Kk</key>
+    <string>0x4B</string>
+    <key>KEY_Ll</key>
+    <string>0x4C</string>
+    <key>KEY_Mm</key>
+    <string>0x4D</string>
+    <key>KEY_Nn</key>
+    <string>0x4E</string>
+    <key>KEY_Oo</key>
+    <string>0x4F</string>
+    <key>KEY_Pp</key>
+    <string>0x50</string>
+    <key>KEY_Qq</key>
+    <string>0x51</string>
+    <key>KEY_Rr</key>
+    <string>0x52</string>
+    <key>KEY_Ss</key>
+    <string>0x53</string>
+    <key>KEY_Tt</key>
+    <string>0x54</string>
+    <key>KEY_Uu</key>
+    <string>0x55</string>
+    <key>KEY_Vv</key>
+    <string>0x56</string>
+    <key>KEY_Ww</key>
+    <string>0x57</string>
+    <key>KEY_Xx</key>
+    <string>0x58</string>
+    <key>KEY_Yy</key>
+    <string>0x59</string>
+    <key>KEY_Zz</key>
+    <string>0x5A</string>
+</dict>
+</plist>
